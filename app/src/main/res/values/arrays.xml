@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="names">
+        <item>代码家</item>
+        <item>代码家</item>
+        <item>代码家</item>
+        <item>代码家</item>
+        <item>代码家</item>
+        <item>代码家</item>
+        <item>代码家</item>
+        <item>代码家</item>
+        <item>代码家</item>
+        <item>代码家</item>
+        <item>代码家</item>
+        <item>代码家</item>
+        <item>代码家</item>
+        <item>代码家</item>
+        <item>代码家</item>
+        <item>代码家</item>
+        <item>代码家</item>
+        <item>代码家</item>
+    </array>
+    <array name="avatar_urls">
+        <item>http://ww1.sinaimg.cn/large/610dc034jw1faaywuvd20j20u011gdli.jpg</item>
+        <item>http://ww1.sinaimg.cn/large/610dc034gw1fa9dca082pj20u00u0wjc.jpg</item>
+        <item>http://ww2.sinaimg.cn/large/610dc034jw1fa8n634v0vj20u00qx0x4.jpg</item>
+        <item>http://ww3.sinaimg.cn/large/610dc034jw1fa7jol4pgvj20u00u0q51.jpg</item>
+        <item>http://ww2.sinaimg.cn/large/610dc034jw1fa42ktmjh4j20u011hn8g.jpg</item>
+        <item>http://ww3.sinaimg.cn/large/610dc034jw1fa2vh33em9j20u00zmabz.jpg</item>
+        <item>http://ww1.sinaimg.cn/large/610dc034gw1fa1vkn6nerj20u011gdjm.jpg</item>
+        <item>http://ww4.sinaimg.cn/large/610dc034gw1fa0ppsw0a7j20u00u0thp.jpg</item>
+        <item>http://ww2.sinaimg.cn/large/610dc034gw1f9zjk8iaz2j20u011hgsc.jpg</item>
+        <item>http://ww2.sinaimg.cn/large/610dc034jw1f9vyl2fqi0j20u011habc.jpg</item>
+        <item>http://ww2.sinaimg.cn/large/610dc034jw1f9us52puzsj20u00u0jtd.jpg</item>
+        <item>http://ww3.sinaimg.cn/large/610dc034jw1f9tmhxq87lj20u011htae.jpg</item>
+        <item>http://ww3.sinaimg.cn/large/610dc034jw1f9rc3qcfm1j20u011hmyk.jpg</item>
+        <item>http://ww3.sinaimg.cn/large/610dc034jw1f9nuk0nvrdj20u011haci.jpg</item>
+        <item>http://ww4.sinaimg.cn/large/610dc034jw1f9mp3xhjdhj20u00u0ta9.jpg</item>
+        <item>http://ww2.sinaimg.cn/large/610dc034gw1f9lmfwy2nij20u00u076w.jpg</item>
+        <item>http://ww2.sinaimg.cn/large/610dc034gw1f9kjnm8uo1j20u00u0q5q.jpg</item>
+        <item>http://ww4.sinaimg.cn/large/610dc034jw1f9frojtu31j20u00u0go9.jpg</item>
+    </array>
+</resources>
